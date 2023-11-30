@@ -1,4 +1,4 @@
-module github.com/benevolent0505/gqlgen-tracing-sentry
+module github.com/karatekaneen/gqlgen-tracing-sentry
 
 go 1.21
 

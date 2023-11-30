@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 
-	"github.com/benevolent0505/gqlgen-tracing-sentry/sentrytracing"
+	"github.com/karatekaneen/gqlgen-tracing-sentry/sentrytracing"
 )
 
 func Test_NoError(t *testing.T) {
